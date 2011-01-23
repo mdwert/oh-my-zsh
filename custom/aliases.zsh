@@ -37,4 +37,4 @@ alias du='du -h'
 alias df='df -h'
 
 ###Set directory Colors
-eval "`dircolors -b ~/.dircolors`"
+#eval "`dircolors -b ~/.dircolors`"
